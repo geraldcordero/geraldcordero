@@ -15,7 +15,7 @@ I'm a web development student at the National Learning Institute (INA). I'm prof
 - ✔ Feel free to ask me anyting -- I'm friendly, I promise.🤞<br>
 - 💻 Outside of tech, 👺 I enjoy watching anime, 🎧 listening to music, and 🏀 playing basketball.
 - 📫 Reach out to me at: <a href="gerald.cordero.dev@gmail.com">gerald.cordero.dev@gmail.com</a>
-
+<br>
 ## My Skills Include
 
 <h4> Languages </h4>
